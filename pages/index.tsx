@@ -48,7 +48,7 @@ export default function Home() {
 
   const isDesktop = useMediaQuery("(min-width: 1200px)");
   // const CM_ID = "9VS1GVnhv6JHgmkkPfu87HHccpaSuoeAY6gfTBs23sfK";
-  const CM_ID = "FLMANM6ZXaMoNgAGEtKgABYhkYjzFrbGr4xtFCReQ8n1";
+  const CM_ID = "8zGVrnsHx9a75RdhwHExJZpv6AEaH9d9hrXUhHWbUEM2";
   const CM_NAME = "Bread Heads";
   const BH_COLLECTION = "44jmFBzJEw6hndKToYJtv1dKqey8NkfVbUdMgJaBevGF";
   const CRUMBS = "Bqf4Ep42BVL6gbFc47WUrV1jWhkPxYVbzqtMHaE7L63F";
@@ -346,7 +346,7 @@ export default function Home() {
               }}
             >
               <p style={{ color: "grey" }}>
-                10K Baby Bread Head Bases to pilot Metaplex's Fusion Protocol.
+                10K Eye Traits apply to Baby Breads.
               </p>
             </Box>
             {/* <Countdown date={startTime}> */}
